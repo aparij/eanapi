@@ -3,7 +3,9 @@ eanapi
 
 very simple EAN (Expedia Affiliate Network)  api wrapper. For now support only HotelInfo and RoomAvailability end points. API documentation can be found here http://developer.ean.com/docs/
 
-Usage :
+Usage:
+-------
+
 define this config data 
 
     API_KEY = 'SAMPLE KEY efsdfdsfdsfsdfvfftkg5' 
@@ -24,7 +26,8 @@ then
 
 
 
-requirements:
+requirements
+------------
 
 requests==2.1.0
 simplejson==3.3.1
