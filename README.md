@@ -24,7 +24,7 @@ then
 
 
 
-requirements
+requirements:
 
 requests==2.1.0
 simplejson==3.3.1
