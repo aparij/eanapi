@@ -5,11 +5,12 @@ very simple EAN Expedia api wrapper. For now support only HotelInfo and RoomAvai
 
 Usage :
 define this config data 
-    API_KEY = 'SAMPLE KEY efsdfdsfdsfsdfvfftkg5'
-    CID = '55505'
-    LOCALE='en_US'
-    CURRENCY_CODE='USD'
-    MINOR_REV = '20'
+
+    API_KEY = 'SAMPLE KEY efsdfdsfdsfsdfvfftkg5' 
+    CID = '55505' 
+    LOCALE='en_US' 
+    CURRENCY_CODE='USD' 
+    MINOR_REV = '20' 
     API_ENDPOINT = 'http://api.ean.com/ean-services/rs/hotel/v3/'
 
 
