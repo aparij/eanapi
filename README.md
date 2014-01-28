@@ -19,7 +19,7 @@ then
 
   >>> from eanapi import api
   >>> api_service = api.API(API_ENDPOINT, API_KEY, CID, MINOR_REV)
-  >>> req = ape_service.GetRoomAvailability(566671,'01/22/2014','01/27/2014',[1])
+  >>> req = api_service.GetRoomAvailability(566671,'01/22/2014','01/27/2014',[1])
   <Response >
 
 
