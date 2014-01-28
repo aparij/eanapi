@@ -1,7 +1,7 @@
 eanapi
 ======
 
-very simple EAN Expedia api wrapper. For now support only HotelInfo and RoomAvailability end points.
+very simple EAN (Expedia Affiliate Network)  api wrapper. For now support only HotelInfo and RoomAvailability end points. API documentation can be found here http://developer.ean.com/docs/
 
 Usage :
 define this config data 
