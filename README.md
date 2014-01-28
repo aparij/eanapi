@@ -13,11 +13,12 @@ define this config data
     MINOR_REV = '20' 
     API_ENDPOINT = 'http://api.ean.com/ean-services/rs/hotel/v3/'
 
+then
 
-      >>> from eanapi import api
-      >>> api_service = api.API(API_ENDPOINT, API_KEY, CID, MINOR_REV)
-      >>> req = ape_service.GetRoomAvailability(566671,'01/22/2014','01/27/2014',[1])
-      <Response >
+  >>> from eanapi import api
+  >>> api_service = api.API(API_ENDPOINT, API_KEY, CID, MINOR_REV)
+  >>> req = ape_service.GetRoomAvailability(566671,'01/22/2014','01/27/2014',[1])
+  <Response >
 
 
 
